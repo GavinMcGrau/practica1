@@ -515,6 +515,7 @@ button:focus {
   margin-bottom: 0;
 }
 .product-btn a {
+  font-weight: 700;
   width: 166px;
   height: 60px;
   color: #fff;
